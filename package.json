@@ -4,7 +4,9 @@
   "description": "A Small Backend to use with works projects",
   "main": "index.js",
   "scripts": {
-  	"start": "json-server --watch db.json --port 4000",
+    "start": "json-server --watch db.json --port 3001",
+    "users": "json-server --watch users.json --port 3001",
+    "people": "json-server --watch people.json --port 3001",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +25,6 @@
   },
   "homepage": "https://github.com/thiagolucio/backendFromTests#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.4"
   }
 }

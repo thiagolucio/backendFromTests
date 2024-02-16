@@ -2,18 +2,18 @@
   "users": [
     {
       "id": 1,
-      "nome": "Godfrey",
-      "sobrenome": "Duggan",
-      "email": "gduggan0@gizmodo.com",
-      "idade": "Male",
+      "nome": "Thiago",
+      "sobrenome": "Lucio Bittencourt",
+      "email": "thiagolucio@gmail.com",
+      "idade": "45",
       "cep": "131.184.112.144"
     },
     {
       "id": 2,
-      "nome": "Deborah",
-      "sobrenome": "Moxted",
-      "email": "dmoxted1@google.cn",
-      "idade": "Genderqueer",
+      "nome": "Thiago Lucio",
+      "sobrenome": "Thomaz da Silva",
+      "email": "thiagoluciobittencourt@gmail.com",
+      "idade": "55",
       "cep": "93.56.3.64"
     },
     {

@@ -1,0 +1,164 @@
+{
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Chital",
+            "avatar": "/images/woman.png",
+            "owner": "gdonnan0@barnesandnoble.com",
+            "url": "/images/n02085782_28.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 2,
+            "name": "Cape raven",
+            "avatar": "/images/man.png",
+            "owner": "rhammel1@amazon.de",
+            "url": "/images/n02085936_233.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 3,
+            "name": "Silver gull",
+            "avatar": "/images/woman.png",
+            "owner": "ryakob2@multiply.com",
+            "url": "/images/n02086079_347.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 4,
+            "name": "Common dolphin",
+            "avatar": "/images/man.png",
+            "owner": "sshynn3@cisco.com",
+            "url": "/images/n02086240_61.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 5,
+            "name": "Springbok",
+            "avatar": "/images/woman.png",
+            "owner": "rgowdie4@google.com.br",
+            "url": "/images/n02089973_186.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 6,
+            "name": "American Starfforshire Terrier",
+            "avatar": "/images/man.png",
+            "owner": "bkondratenya5@rediff.com",
+            "url": "/images/n02093428_814.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 7,
+            "name": "Russian dragonfly",
+            "avatar": "/images/woman.png",
+            "owner": "aheustace6@stanford.edu",
+            "url": "/images/n02093991_278.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 8,
+            "name": "Black spider monkey",
+            "avatar": "/images/man.png",
+            "owner": "bfleetwood7@addtoany.com",
+            "url": "/images/n02111277_371.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 9,
+            "name": "Phalarope, northern",
+            "avatar": "/images/woman.png",
+            "owner": "ntabourier8@cocolog-nifty.com",
+            "url": "/images/n02096177_181.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 10,
+            "name": "Gonolek, burchell's",
+            "avatar": "/images/man.png",
+            "owner": "lrate9@latimes.com",
+            "url": "/images/n02106030_1821.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 11,
+            "name": "Swainson's francolin",
+            "avatar": "/images/woman.png",
+            "owner": "lkrysztofiaka@bigcartel.com",
+            "url": "/images/n02107312_67.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 12,
+            "name": "Armadillo, common long-nosed",
+            "avatar": "/images/man.png",
+            "owner": "ngoodwynb@europa.eu",
+            "url": "/images/n02106662_695.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 13,
+            "name": "Gull, dusky",
+            "avatar": "/images/woman.png",
+            "owner": "ftottemc@vinaora.com",
+            "url": "/images/n02107908_298.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 14,
+            "name": "Common wolf",
+            "avatar": "/images/man.png",
+            "owner": "kscholtisd@cloudflare.com",
+            "url": "/images/n02108422_278.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 15,
+            "name": "German Dog",
+            "avatar": "/images/woman.png",
+            "owner": "amatthause@i2i.jp",
+            "url": "/images/n02109047_926.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 16,
+            "name": "Stork, painted",
+            "avatar": "/images/man.png",
+            "owner": "ylevetf@oakley.com",
+            "url": "/images/n02109525_345.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 17,
+            "name": "Otter, african clawless",
+            "avatar": "/images/woman.png",
+            "owner": "awestnedgeg@imdb.com",
+            "url": "/images/n02112018_276.jpg",
+            "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+        },
+        {
+            "id": 18,
+            "name": "Olive baboon",
+            "avatar": "/images/man.png",
+            "owner": "tmcmillanh@mapquest.com",
+            "url": "/images/n02110806_402.jpg",
+            "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue."
+        },
+        {
+            "id": 19,
+            "name": "Blacksmith Pug",
+            "avatar": "/images/woman.png",
+            "owner": "cbrocketti@friendfeed.com",
+            "url": "/images/n02110958_609.jpg",
+            "description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+        },
+        {
+            "id": 20,
+            "name": "African wild dog",
+            "avatar": "/images/man.png",
+            "owner": "lforrej@squarespace.com",
+            "url": "/images/n02113023_187.jpg",
+            "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+        }
+    ]
+}

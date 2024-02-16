@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json --port 3001",
+<<<<<<< HEAD
     "user": "json-server --watch user.json --port 3001",
     "users": "json-server --watch users.json --port 3001",
     "people": "json-server --watch people.json --port 3001",
+=======
+>>>>>>> c1e2ecd3a85f0179447c5c955b8ed09aaddbe374
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

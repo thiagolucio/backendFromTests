@@ -1,0 +1,37 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nome": "Thiago",
+      "email": "thiagolucio@gmail.com",
+      "password": "4ffdca89f16fa42d4bc5ddf6ba26e71b"
+    },
+    {
+      "id": "2",
+      "name": "Thiago",
+      "email": "thiagoluciobitencourt@gmail.com",
+      "password": "accb985f14e88e259a008fac10e86824"
+    },
+    {
+      "id": "3",
+      "name": "Frederico",
+      "email": "fred@gmail.com",
+      "password": "c16f9301c4610a45c6365038da8b0cd4"
+    },
+    {
+      "id": "4",
+      "email": "henrique@gmail.com",
+      "password": "d17fe703c09d2caf48f32e9665539994"
+    },    
+    {
+      "id": "5",
+      "email": "anajulia@gmail.com",
+      "password": "cf32cdcb0bf423198f7e9276e070c4cd"
+    },
+    {
+      "id": "6",
+      "email": "tanso@gmail.com",
+      "password": "be3a32ffd31fe0564e41e4d5bfd09ebb"
+    }
+  ]
+}
